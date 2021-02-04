@@ -1,0 +1,26 @@
+header {
+    background:#eee;
+
+
+    .logo {
+        margin: 1em; 
+        width: 24%; 
+        min-width: 250px;
+      }
+
+      .topnav-right {
+        float: right;
+        padding: 8px 20px;
+        background-color: #333;
+        border-bottom-left-radius: 10px;
+        border-bottom-right-radius: 10px;
+      }
+      .topnav a {
+        text-align: center;
+        text-decoration: none;
+        font-size: 14px;
+        padding: 8px 18px;
+        color: white    
+      }
+    
+}
